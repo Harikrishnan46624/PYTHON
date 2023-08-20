@@ -11,7 +11,7 @@ def insertion(arr):
         print(arr)
        
 
-arr = [7, 2, 4, 1, 5, 3]
+arr = [64, 34, 2, 8]
 insertion(arr)
 # print(arr)
 
